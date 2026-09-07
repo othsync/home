@@ -2,7 +2,7 @@
   <table width="100%">
     <tr>
       <td style="padding: 16px;">
-        <img src="https://raw.githubusercontent.com/othsync/home/refs/heads/main/attributes/logo/oth-s.png" align="right" width="64" alt="oth" style="margin-left: 15px; margin-bottom: 10px;">
+        <img src="https://raw.githubusercontent.com/othsync/home/refs/heads/main/attributes/logo/OTH-S.png" align="right" width="64" alt="oth" style="margin-left: 15px; margin-bottom: 10px;">
         <h3 align="center">⚖️ Legal Info & Notice</h3>
         <p align="justify">
           • All game assets, trademarks, service marks, logos, item icons, and media files stored in the <a href="https://github.com/othsync/home/tree/main/database"><code>database/</code></a> directory are the exclusive intellectual property of <b>EXBO</b>. All rights reserved by their respective copyright holders.
