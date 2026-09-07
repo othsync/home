@@ -9,7 +9,7 @@
         </p>
         <br>
         <p align="justify">
-          • This repository functions solely as an independent, non-commercial storage for asset preservation and visual display within the Google Sheets project <a href="https://docs.google.com/spreadsheets/d/1ZFpEHkkHkaQDnfknrpxiUK_FSUoJLw7eTWFoSVe0z2I/"><b>[OTH]</b></a>. It is <b>not</b> affiliated with, endorsed, sponsored, or officially authorized by <b>EXBO</b>.
+          • This repository functions solely as an independent, non-commercial storage for asset preservation and visual display within the Google Sheets project <a href="https://docs.google.com/spreadsheets/d/1ZFpEHkkHkaQDnfknrpxiUK_FSUoJLw7eTWFoSVe0z2I/"><b>[OTH-S]</b></a>. It is <b>not</b> affiliated with, endorsed, sponsored, or officially authorized by <b>EXBO</b>.
         </p>
         <br>
         <p align="justify">
