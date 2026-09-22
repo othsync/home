@@ -9,7 +9,11 @@
         </p>
         <br>
         <p align="justify">
-          • This repository functions solely as an independent, non-commercial storage for asset preservation and visual display within the Google Sheets project <a href="https://docs.google.com/spreadsheets/d/1ZFpEHkkHkaQDnfknrpxiUK_FSUoJLw7eTWFoSVe0z2I/"><b>[OTH-S]</b></a>. It is <b>not</b> affiliated with, endorsed, sponsored, or officially authorized by <b>EXBO</b>.
+          • Icons located in the <code>attributes/misc/</code> directory are sourced from <a href="https://iconify.design/"><b>Iconify</b></a> and are used in accordance with their respective open-source licenses.
+        </p>
+        <br>
+        <p align="justify">
+          • This repository functions solely as an independent, non-commercial storage for asset preservation and visual display within the Google Sheets project <a href="https://docs.google.com/spreadsheets/d/1ZFpEHkkHkaQDnfknrpxiUK_FSUoJLw7eTWFoSVe0z2I/"><b>[OTH-S] Codex</b></a>. It is <b>not</b> affiliated with, endorsed, sponsored, or officially authorized by <b>EXBO</b>.
         </p>
         <br>
         <p align="justify">
