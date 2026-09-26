@@ -9,7 +9,7 @@
         </p>
         <br>
         <p align="justify">
-          • Icons located in the <code>attributes/misc/</code> directory are sourced from <a href="https://iconify.design/"><b>Iconify</b></a> and are used in accordance with their respective open-source licenses.
+          • Icons located in the <a href="https://github.com/othsync/home/tree/main/attributes/misc"><code>attributes/misc/</code></a> directory are sourced from <a href="https://iconify.design/"><b>Iconify</b></a> and are used in accordance with their respective open-source licenses.
         </p>
         <br>
         <p align="justify">
